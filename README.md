@@ -42,4 +42,4 @@ LIMIT 5;
 ## Setup Instructions:
 1. Clone the repository:  
 ```bash
-git clone https://github.com/YourUsername/College-Management-System.git
+git clone https://github.com/Sanikakondekar/College-Management-System.git
